@@ -1,0 +1,8 @@
+[
+    {
+        "nazwa": "admin",
+        "haslo": "$2y$10$IiBSHe\/dO0t6d5hCzuvD5e9AzZfvv5XdgeoM280AO93pYEZ4EMLtK",
+        "wiek": "22",
+        "email": "admin@admin.pl"
+    }
+]
